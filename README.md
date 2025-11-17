@@ -28,34 +28,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js" />
-</p>
-
-### ⚙️ Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,linux,git,docker,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight" height="150">
-</p>
-
----
-
-## 🌌 Quote
-> *“Make AI not just work — make it elegant.”*
-
----
-
 ## 📫 Contact
 - 📧 Email: karsa220@sjtu.edu.cn  
 - 🔗 Homepage: karsa220.github.io (optional)
