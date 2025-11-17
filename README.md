@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm karsa</h1>
-<h3 align="center">MSc in Computer Science @ Shanghai Jiao Tong University</h3>
+<h3 align="center">MSc in Computer Science (Professional Master) @ Shanghai Jiao Tong University</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI-blue?style=flat-square"/>
@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **上海交通大学 — 计算机科学硕士研究生（CS）**
+- 🎓 **上海交通大学 — 计算机专硕研究生**
 - 🔭 研究兴趣包括：
   - **人工智能（AI）**
   - **强化学习（RL）**
